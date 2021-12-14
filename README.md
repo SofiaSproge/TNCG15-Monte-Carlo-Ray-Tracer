@@ -1,4 +1,4 @@
-# TNCG15-Monte-Carlo-Ray-Tracer
+# TNCG15-Monte-Carlo Ray-Tracer
 ![alt text](https://raw.githubusercontent.com/SofiaSproge/TNCG15-Monte-Carlo-Ray-Tracer/main/30-1-1.png)
 
 <h1>The Scene</h1>
